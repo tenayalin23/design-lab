@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(rgb(229, 139, 165),rgb(131, 187, 225));
+}
+
+div {
+    margin-left:auto;
+}
+
+.button {
+    background:green;
+    outline: 2px solid black;
+    color: rgb(103, 103, 212);
+    margin-top: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width: 100px;
+}
+
+.title {
+    font-size: 30px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    width: 100px;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    color: white;
+}
+
+.name {
+    margin-bottom: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width: 100px;;
+}
+
+.pass {
+    margin-bottom: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width: 100px;;
+}
